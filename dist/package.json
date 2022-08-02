@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
-  "homepage": "https://alexandrtimokhin95.github.io/roll-delivery",
+  "homepage": "https://alexandrtimokhin95.github.io/food-landing",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
